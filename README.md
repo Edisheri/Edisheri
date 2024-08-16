@@ -1,13 +1,19 @@
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" alt="Hello" width="600"/>
+<img src="https://animation.99px.ru/animations/9458.gif" alt="Bruce Almighty typing" width="600"/>
 
 # Привет! Рад видеть тебя здесь 👋
 
 <!-- Описание -->
 ## :man_technologist: Обо мне | About Me
-- :telescope: Я Python backend разработчик с более чем 1,5 годами опыта, работающий над закрытыми проектами в крупной корпорации.
-- :seedling: В свободное время совершенствую навыки в новых технологиях и решаю задачи на LeetCode.
-- :zap: Интересуюсь архитектурой микросервисов и DevOps практиками.
-  
+- :telescope: Python Backend Developer с более чем 1,5 годами опыта работы над корпоративными проектами.
+- :seedling: Постоянно учусь новым технологиям и совершенствую навыки решения задач на LeetCode.
+- :zap: Специализируюсь на архитектуре микросервисов и DevOps практиках.
+
+<!-- Альтернативный текст на английском -->
+## :man_technologist: About Me
+- :telescope: I’m a Python Backend Developer with 1.5+ years of experience working on enterprise projects.
+- :seedling: Continuously learning new technologies and solving problems on LeetCode.
+- :zap: Specialized in microservices architecture and DevOps practices.
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 <!-- Стек технологий -->
