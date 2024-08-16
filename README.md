@@ -1,69 +1,36 @@
-<img src="path_to_gif/99px_ru_animacii_9458_djim_kerri_v_filme_brus_vsemogushij_pechataet_na.gif" alt="Bruce Almighty typing" width="600"/>
+<img src="path-to-your-image.gif" alt="Bruce Almighty typing" width="600"/>
 
 # Привет! Рад видеть тебя здесь 👋
 
-<!-- Описание -->
 ## :man_technologist: Обо мне | About Me
 - :telescope: Python Backend Developer с более чем 1,5 годами опыта работы над корпоративными проектами.
 - :seedling: Постоянно учусь новым технологиям и совершенствую навыки решения задач на LeetCode.
 - :zap: Специализируюсь на архитектуре микросервисов и DevOps практиках.
 
-<!-- Альтернативный текст на английском -->
-## :man_technologist: About Me
-- :telescope: I’m a Python Backend Developer with 1.5+ years of experience working on enterprise projects.
-- :seedling: Continuously learning new technologies and solving problems on LeetCode.
-- :zap: Specialized in microservices architecture and DevOps practices.
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-<!-- Стек технологий -->
 ## :hammer_and_wrench: Мой стек технологий | My Tech Stack:
-
 <div align="center">
-  
-  ### Backend:
-  ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
-  ![Flask](https://img.shields.io/badge/-Flask-333?style=for-the-badge&logo=flask)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi)
 
-  ### Databases:
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb)
-  ![Redis](https://img.shields.io/badge/-Redis-333?style=for-the-badge&logo=redis)
+### Backend
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 
-  ### DevOps:
-  ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes)
-  ![Nginx](https://img.shields.io/badge/-Nginx-333?style=for-the-badge&logo=nginx)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=for-the-badge&logo=jenkins)
+### Databases
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 
-  ### Frontend:
-  ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=bootstrap)
+### DevOps
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
 
-  ### Testing:
-  ![PyTest](https://img.shields.io/badge/-PyTest-333?style=for-the-badge&logo=pytest)
-  ![Selenium](https://img.shields.io/badge/-Selenium-333?style=for-the-badge&logo=selenium)
-  ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=postman)
-
-  ### Other Tools:
-  ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=for-the-badge&logo=graphql)
-  ![Celery](https://img.shields.io/badge/-Celery-333?style=for-the-badge&logo=celery)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333?style=for-the-badge&logo=rabbitmq)
-
-</div>
-
-<!-- Контакты -->
-## :link: Контакты | Contact Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/edisher-kipiani-7a0670270/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kipiani182@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/umys_l"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
+### Frontend
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp
