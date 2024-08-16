@@ -1,5 +1,4 @@
-
-![Uploading VVKb.gif…]()
+<img src="https://github.com/Edisheri/postgres-homeworks/blob/main/VVKb.gif" alt="Bruce Almighty typing" width="600"/>
 
 # Привет! Рад видеть тебя здесь 👋
 
