@@ -1,4 +1,5 @@
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Bruce Almighty typing" width="600"/>
+
 # Привет! Рад видеть тебя здесь 👋
 
 <!-- Описание -->
