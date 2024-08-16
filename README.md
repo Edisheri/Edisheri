@@ -1,4 +1,4 @@
-<img src="https://animation.99px.ru/animations/9458.gif" alt="Bruce Almighty typing" width="600"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Bruce Almighty typing" width="600"/>
 
 # Привет! Рад видеть тебя здесь 👋
 
@@ -18,44 +18,43 @@
 
 <!-- Стек технологий -->
 ## :hammer_and_wrench: Мой стек технологий | My Tech Stack:
-<div align="center">
-  <h4>Backend</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 
-  <h4>Databases</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+### Backend:
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-333?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi)
 
-  <h4>DevOps</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+### Databases:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-333?style=for-the-badge&logo=redis)
 
-  <h4>Frontend</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+### DevOps:
+![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes)
+![Nginx](https://img.shields.io/badge/-Nginx-333?style=for-the-badge&logo=nginx)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=for-the-badge&logo=jenkins)
 
-  <h4>Testing</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PyTest" alt="PyTest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+### Frontend:
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=bootstrap)
 
-  <h4>Other Tools</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/celery/celery-original.svg" title="Celery" alt="Celery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
-</div>
+### Testing:
+![PyTest](https://img.shields.io/badge/-PyTest-333?style=for-the-badge&logo=pytest)
+![Selenium](https://img.shields.io/badge/-Selenium-333?style=for-the-badge&logo=selenium)
+![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=postman)
+
+### Other Tools:
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=for-the-badge&logo=graphql)
+![Celery](https://img.shields.io/badge/-Celery-333?style=for-the-badge&logo=celery)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333?style=for-the-badge&logo=rabbitmq)
 
 <!-- Контакты -->
 ## :link: Контакты | Contact Me:
