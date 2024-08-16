@@ -1,6 +1,9 @@
 <!-- Приветствие с анимацией -->
-<!-- Приветственное изображение или GIF -->
-<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Welcome" width="600"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+  <h1>Привет, я Эдишер Кипиани!</h1>
+  <h3>Hi, I'm Edisher Kipiani!</h3>
+</div>
 
 <!-- Описание -->
 ## :man_technologist: Обо мне | About Me
