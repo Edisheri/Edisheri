@@ -1,4 +1,4 @@
-<img src="https://animation.99px.ru/animations/9458.gif" alt="Bruce Almighty typing" width="600"/>
+<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" alt="Hello" width="600"/>
 
 # Привет! Рад видеть тебя здесь 👋
 
