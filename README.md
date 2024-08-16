@@ -1,4 +1,4 @@
-<img src="https://github.com/Edisheri/postgres-homeworks/blob/main/99px_ru_animacii_9458_djim_kerri_v_filme_brus_vsemogushij_pechataet_na.gif" alt="Bruce Almighty typing" width="600"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Bruce Almighty typing" width="600"/>
 
 # Привет! Рад видеть тебя здесь 👋
 
