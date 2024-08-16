@@ -4,9 +4,11 @@
 
 <!-- Описание -->
 ## :man_technologist: Обо мне | About Me
-- :telescope: Я Python backend разработчик с опытом более 1.5 лет, работающий над закрытыми проектами в крупной корпорации.
-- :seedling: В свободное время я совершенствую свои навыки в новых технологиях и решаю задачи на LeetCode.
-- :zap: Активно интересуюсь архитектурой микросервисов и DevOps практиками.
+- :telescope: Я Python backend разработчик с более чем 1,5 годами опыта, работающий над закрытыми проектами в крупной корпорации.
+- :seedling: В свободное время совершенствую навыки в новых технологиях и решаю задачи на LeetCode.
+- :zap: Интересуюсь архитектурой микросервисов и DevOps практиками.
+  
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 <!-- Стек технологий -->
 ## :hammer_and_wrench: Мой стек технологий | My Tech Stack:
@@ -51,6 +53,8 @@
 
 <!-- Контакты -->
 ## :link: Контакты | Contact Me:
-- LinkedIn: [Эдишер Кипиани](https://www.linkedin.com/in/edisher-kipiani-7a0670270/)
-- Email: [kipiani182@gmail.com](mailto:kipiani182@gmail.com)
-- Telegram: [@umys_l](https://t.me/umys_l)
+<p align="center">
+  <a href="https://www.linkedin.com/in/edisher-kipiani-7a0670270/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kipiani182@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/umys_l"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
