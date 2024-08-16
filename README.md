@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://your-image-url.com/dark-theme.png" alt="Dark Theme" width="300"/>
-</p>
+<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" alt="Hello" width="600"/>
 
-# Привет! Я разработчик, который ценит качественный код и отличный дизайн.
+# Привет! Рад видеть тебя здесь 👋
 
 <!-- Описание -->
 ## :man_technologist: Обо мне | About Me
