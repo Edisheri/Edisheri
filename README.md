@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://your-image-url.com/light-theme.png" alt="Light Theme" width="300"/>
   <img src="https://your-image-url.com/dark-theme.png" alt="Dark Theme" width="300"/>
 </p>
 
