@@ -1,5 +1,4 @@
-<img src="https://media.tenor.com/xQZYNNurBdAAAAAd/jim-carrey-bruce-almighty-typing.gif" alt="Bruce Almighty typing" width="600"/>
-
+<img src="https://i.imgur.com/yourgiflink.gif" alt="Bruce Almighty typing" width="600"/>
 
 # Привет! Рад видеть тебя здесь 👋
 
