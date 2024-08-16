@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/VVKb.gif" alt="Bruce Almighty typing" width="600"/>
+<iframe src="https://gifer.com/embed/VVKb" width=480 height=356.571 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
 
 # Привет! Рад видеть тебя здесь 👋
 
